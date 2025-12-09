@@ -7,6 +7,9 @@ data/**
 guide/
 temp/
 
+# Large CSV files
+output/train_model/test_predictions_*.csv
+
 # Claude/AI files
 claude.md
 CLAUDE.md

@@ -1,0 +1,21 @@
+Feature,Mean |SHAP|
+xp,2003.1519
+totalDamageDoneToChampions,569.8667
+jungleMinionsKilled,458.46866
+kills,452.8541
+minionsKilled,135.93073
+xpDiff,76.90836
+killParticipation,70.61454
+damageShare,61.303383
+assists,53.432125
+deaths,46.757324
+totalDamageTaken,39.294758
+KDA,24.070257
+turretPlates,22.770782
+objectiveParticipation,18.72314
+wardsPlaced,16.454306
+soloKills,15.936193
+csDiff,15.409322
+timeEnemySpentControlled,10.997075
+killsDiff,8.721569
+damageDiff,8.075935

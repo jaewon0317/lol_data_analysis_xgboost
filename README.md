@@ -206,6 +206,7 @@ lol_data_analysis/
 - `gameCreation`, `gameStartTimestamp`, `gameEndTimestamp`: 시간 정보
 - `gameDuration`: 경기 시간 (초)
 - `participants`: 10명의 플레이어 정보 (각 133개 필드)
+- `teamPosition`: 플레이어별 라인
 
 #### Timeline 데이터 주요 필드
 

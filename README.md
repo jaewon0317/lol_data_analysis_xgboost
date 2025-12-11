@@ -517,9 +517,9 @@ df['contribution'] = df['predictedGold'] / df['minute'].map(global_mean_gold)
 - 포지션별 승률과 기여도의 상관관계 분석
 - 안정적인 캐리형인지, 기복이 큰 타입인지 파악
 
-### 10.4. 플레이어별 기여도 분석
+### 10.4. 전체 플레이어 기여도 및 변동폭 분석
 
-플레이어 개인의 **평균 기여도**와 **경기력 변동폭**을 산점도로 시각화한다.
+플레이어 전체의 **평균 기여도**와 **경기력 변동폭**을 산점도로 시각화한다.
 <img src="output/player_contribution/JUNGLE/contribution_scatter.png" width="600">
 
 *<그림 12: 정글러 기여도 산점도>*
